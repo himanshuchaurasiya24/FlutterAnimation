@@ -1,7 +1,7 @@
 import 'package:animation_starter_code/explicit_examples/login_animation.dart';
 import 'package:flutter/material.dart';
 
-// vid at 01:15:14
+// vid at 01:29:46
 void main() {
   runApp(const MyApp());
 }
