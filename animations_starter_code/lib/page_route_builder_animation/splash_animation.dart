@@ -95,7 +95,7 @@ class MyCustomPageRoute extends PageRouteBuilder {
             animation,
             secondaryAnimation,
           ) {
-            return const Destination();
+            return route;
           },
           transitionsBuilder: (context, animation, secondaryAnimation, child) {
             return FadeTransition(
